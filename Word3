@@ -314,7 +314,7 @@ end
 
 local L_13_ = L_4_:NewTab("Credits")
 local L_14_ = L_13_:NewSection("Credits")
-local L_14_ = L_13_:NewSection("Creator: Skript®")
+local L_14_ = L_13_:NewSection("Creator: Ecotric®")
 
 
 
